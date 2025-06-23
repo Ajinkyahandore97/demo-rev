@@ -1,3 +1,3 @@
-# Hi my name is ajinkya rajnedra Handore
+# Hi my name is Ajinkya  Rajendra Handore
 
-hi 
+hi Rajendra 
